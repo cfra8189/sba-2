@@ -1,5 +1,6 @@
 body {
     background-color: #473f8c;
+    
 }
 
 nav {
@@ -26,6 +27,7 @@ nav .nav-group {
     font-weight: 700;
     color: #cfe3e6;
     letter-spacing: 1px;
+    text-decoration: none;
     
 }
 
@@ -47,4 +49,8 @@ nav .nav-group {
 .nav-links li a:hover {
     color: #cfe3e6;
     text-shadow: 0 0 10px #33082f;
+}
+
+.logo a {
+    text-decoration: none;
 }
